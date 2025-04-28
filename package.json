@@ -1,5 +1,6 @@
 {
-  "name": "firebase-hello-world",
+    "name": "firebase-hello-world",
+    "homepage": "https://obuchel.github.io/firebase-hello-world",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +13,9 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "^5.0.1",
-    "web-vitals": "^2.1.4"
+      "web-vitals": "^2.1.4",
+      "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
   },
   "scripts": {
     "start": "react-scripts start",
