@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase-hello-world1/static/css/main.e6c13ad2.css",
+    "main.js": "/firebase-hello-world1/static/js/main.0fd21e83.js",
+    "static/js/453.6088e4c7.chunk.js": "/firebase-hello-world1/static/js/453.6088e4c7.chunk.js",
+    "index.html": "/firebase-hello-world1/index.html",
+    "main.e6c13ad2.css.map": "/firebase-hello-world1/static/css/main.e6c13ad2.css.map",
+    "main.0fd21e83.js.map": "/firebase-hello-world1/static/js/main.0fd21e83.js.map",
+    "453.6088e4c7.chunk.js.map": "/firebase-hello-world1/static/js/453.6088e4c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0fd21e83.js"
+  ]
+}
